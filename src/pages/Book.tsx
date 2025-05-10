@@ -147,13 +147,13 @@ const Book = () => {
                       value="general" 
                       className="text-wine-950 py-3 px-4 text-base"
                     >
-                      General Booking
+                      General
                     </TabsTrigger>
                     <TabsTrigger 
                       value="airbnb" 
                       className="text-wine-950 py-3 px-4 text-base"
                     >
-                      Airbnb Booking
+                      Airbnb
                     </TabsTrigger>
                     <TabsTrigger 
                       value="car" 
