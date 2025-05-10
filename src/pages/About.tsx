@@ -49,7 +49,7 @@ const About = () => {
                 className="rounded-lg overflow-hidden shadow-xl"
               >
                 <img 
-                  src="public/Photos/b4196b07-03dc-40ee-a6b4-34e891c1b9bd.png" 
+                  src="./Photos/b4196b07-03dc-40ee-a6b4-34e891c1b9bd.png" 
                   alt="Mio's Hospitality team" 
                   className="w-full h-auto"
                 />
