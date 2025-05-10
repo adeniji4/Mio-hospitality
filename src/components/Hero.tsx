@@ -36,7 +36,7 @@ const Hero = () => {
           
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white p-4">
             {item.showLogo && <div className="mb-8 animate-fade-in">
-                <img src="./public/Photos/b4196b07-03dc-40ee-a6b4-34e891c1b9bd.png" alt="Mio's Hospitality & C0" className="h-64 w-auto object-contain filter brightness-125" />
+                <img src="https://plus.unsplash.com/premium_photo-1712935548320-c5b82b36984f?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mio's Hospitality & C0" className="h-64 w-auto object-contain filter brightness-125" />
               </div>}
             <h1 className="text-4xl md:text-6xl font-bold mb-4 text-center max-w-4xl animate-fade-in">
               {item.title}
